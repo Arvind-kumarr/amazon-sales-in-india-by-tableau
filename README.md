@@ -5,7 +5,7 @@ https://public.tableau.com/app/profile/arvind.kumar8102/viz/AmazonsalesinIndia_1
 Title: Analyzing Amazon Sales in India using Tableau
 
 Introduction:
-The e-commerce industry in India has experienced significant growth in recent years, with Amazon being one of the major players in the market. Analyzing Amazon's sales data can provide valuable insights into consumer behavior, market trends, and performance metrics. In this project, we utilized Tableau to explore and visualize Amazon's sales data in India.
+The e-commerce industry in India has experienced significant growth in recent years, with Amazon being one of the major players in the market. Analyzing Amazon's sales data can provide valuable insights into consumer behavior, market trends, and performance metrics. In this project, i have utilized Tableau to explore and visualize Amazon's sales data in India.
 
 Data Source:
 The primary data source for this project was Amazon's sales data, which included information such as product sales, customer demographics, order details, and geographical distribution. The data was collected over a specific time period to capture seasonal variations and trends.
