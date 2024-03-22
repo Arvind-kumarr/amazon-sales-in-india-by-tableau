@@ -24,12 +24,6 @@ Visualizations: Maps and geographical heat maps were utilized to visualize sales
 Insights: We examined regional variations in sales performance, identified high-potential markets, and explored factors influencing purchase behavior in specific locations.
 
 
-Time Series Analysis:
-
-Visualizations: Time series plots, trend lines, and seasonal decomposition charts were generated to analyze sales patterns over time.
-Insights: We detected seasonal trends, identified sales peaks and troughs, and forecasted future sales trends using time series models.
-
-
 Conclusion:
 
 Through comprehensive data analysis and visualization techniques using Tableau, we gained valuable insights into Amazon's sales performance in India. By understanding customer behavior, market trends, and performance metrics, businesses can make informed decisions to optimize sales strategies, improve customer satisfaction, and drive growth in the competitive e-commerce landscape.
